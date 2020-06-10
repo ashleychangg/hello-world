@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Ashley here, I'm a student and I drink too much coffee.
